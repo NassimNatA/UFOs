@@ -12,7 +12,8 @@ The purpose of this project is to modify a webpage design to be more user-friend
 
 
 - The filter search has the added parameters: date, city, state, country, shape by adding the attached code: 
-(screenshot)
+
+![Test Image 1](https://github.com/NassimNatA/UFOs/blob/main/static/images/Screen%20Shot%202020-11-08%20at%207.58.58%20PM.png)
 
 - To perform a search following the steps below: 
  1. input desired criteria into date
@@ -26,5 +27,5 @@ The purpose of this project is to modify a webpage design to be more user-friend
 
 - Drawback of this webpage: A drawback of this website is that you are not able to filter by duration of the UFO event which is listed in the data for each UFO occurence. 
 - Two additional recommendations for further devleopment:   
-  1. Add filter for duration of event into the website.
-  2. 
+  1. Add filter for duration of event into the website for a more dynamic search engine. 
+  2. Create a "search word" filter to filter the comments by key words. 
