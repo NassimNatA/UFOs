@@ -12,13 +12,16 @@ The purpose of this project is to modify a webpage design to be more user-friend
 (screenshot)
 
 - To perform a search following the steps below: 
- - 
- - 
- - 
+ - input desired criteria into date
+ - input desired criteria into city
+ - input desired criteria into state
+ - input desired criteria into country
+ - input desired criteria into shape
+ - To clear inputs: select 'UFO Sightings' on the top left of the website.
 
 ## Summary
 
-- Drawback of this webpage: A drawback of this webpage is that 
+- Drawback of this webpage: A drawback of this website is that you are not able to filter by duration of the UFO event which is listed in the data for each UFO occurence. 
 - Two additional recommendations for further devleopment:   
-  1. 
+  1. Add fitler for duration of event into the website.
   2. 
