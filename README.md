@@ -7,7 +7,7 @@ The purpose of this project is to modify a webpage design to be more user-friend
 ## Results
 - The completed website: file:///Users/nassimnatalieataii/Desktop/Class_Folder/UFOs/index.html
 
-![Test Image 1]static/images/Screen Shot 2020-11-08 at 7.47.29 PM.png
+![Test Image 1](https://github.com/NassimNatA/UFOs/blob/main/static/images/Screen%20Shot%202020-11-08%20at%207.47.29%20PM.png)
 
 
 
