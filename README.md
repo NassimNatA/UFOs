@@ -12,12 +12,12 @@ The purpose of this project is to modify a webpage design to be more user-friend
 (screenshot)
 
 - To perform a search following the steps below: 
- - input desired criteria into date
- - input desired criteria into city
- - input desired criteria into state
- - input desired criteria into country
- - input desired criteria into shape
- - To clear inputs: select 'UFO Sightings' on the top left of the website.
+ 1. input desired criteria into date
+ 2. input desired criteria into city
+ 3. input desired criteria into state
+ 4. input desired criteria into country
+ 5. input desired criteria into shape
+ 6. To clear inputs: select 'UFO Sightings' on the top left of the website.
 
 ## Summary
 
