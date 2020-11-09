@@ -6,7 +6,9 @@ The purpose of this project is to modify a webpage design to be more user-friend
 
 ## Results
 - The completed website: file:///Users/nassimnatalieataii/Desktop/Class_Folder/UFOs/index.html
-(screenshot)
+![Test Image 1]static/images/Screen Shot 2020-11-08 at 7.47.29 PM.png
+
+
 
 - The filter search has the added parameters: date, city, state, country, shape by adding the attached code: 
 (screenshot)
@@ -23,5 +25,5 @@ The purpose of this project is to modify a webpage design to be more user-friend
 
 - Drawback of this webpage: A drawback of this website is that you are not able to filter by duration of the UFO event which is listed in the data for each UFO occurence. 
 - Two additional recommendations for further devleopment:   
-  1. Add fitler for duration of event into the website.
+  1. Add filter for duration of event into the website.
   2. 
